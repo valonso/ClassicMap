@@ -110,7 +110,7 @@
          }];
     }
     
-    return YES;
+    return NO;
 }
 
 - (void)drawMapRect:(MKMapRect)mapRect zoomScale:(MKZoomScale)zoomScale inContext:(CGContextRef)context
